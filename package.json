@@ -1,6 +1,6 @@
 {
   "name": "easy-api-errors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Api Errors",
   "main": "dist/index.js",
   "types": "dist/",
